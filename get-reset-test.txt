@@ -1,2 +1,6 @@
 Hello Brazil
 Hello San Paolo
+Hello Italy
+Hello Ireland
+Hello Germany
+Hello Everybody
